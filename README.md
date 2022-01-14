@@ -1,7 +1,6 @@
-# chminer
-CH Miner BotNet - Hide Miner RAT and Clipper
+## CH Miner BotNet - Hide Miner RAT and Clipper
 
-Hidden miner that can mine any currency by working with widely used console miners. Simple informative and convenient control panel, easy setup.
+#  Hidden miner that can mine any currency by working with widely used console miners. Simple informative and convenient control panel, easy setup.
 
 ![Image alt](https://img4.teletype.in/files/3a/95/3a95e637-a6df-4bbc-8ab0-f2ffb507fd52.png)
 
@@ -34,7 +33,9 @@ Built-in Builder, you create your own builds as needed. Several encryption metho
 
 Scan for 01/12/2022:
 ![Image alt](https://img1.teletype.in/files/02/81/0281426d-5349-405f-b6d5-3802b18770e2.png)
+
 https://kleenscan.com/scan_result/1adeba738480ec68ff11d877562547209f9c99f68924d42596db9e4ec0e05a77
+
 ![Image alt](https://img4.teletype.in/files/b7/20/b72014bb-26d8-4c8c-9cbe-d42b63817b5b.jpeg)
 Protection features in Builder:
 ![Image alt](https://img4.teletype.in/files/32/f8/32f82631-73b8-4325-bb1c-87bed17de13d.jpeg)
