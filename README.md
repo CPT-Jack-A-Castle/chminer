@@ -2,6 +2,8 @@
 
 ###  Hidden miner that can mine any currency by working with widely used console miners. Simple informative and convenient control panel, easy setup.
 
+Developer Channel Telegram: https://t.me/chminer
+
 ![Image alt](https://img4.teletype.in/files/3a/95/3a95e637-a6df-4bbc-8ab0-f2ffb507fd52.png)
 
 Able to mine on GPU and CPU, Separates miners on cards up to 4GB vRam and 6+GB vRam, determines which currency to mine.
@@ -65,25 +67,17 @@ Clipper supports adding multiple addresses for each currency, will replace the a
 
 Rath functionality:
 ![Image alt](https://img1.teletype.in/files/01/ad/01ad7e2b-77b6-44ca-b30c-51b0fc7dff37.jpeg)
-Send File:
+ [X] Send File:
+    - [X] To Memory
+    - [X] To Disk
 
--To Memory
-
--To Disk
-
-Spy Function:
-
--Remote Desctop
-
--Keylogger
-
--File Manager
-
--Process Manager
-
--WebCam
-
--Report Window
+ [X] Spy Function:
+    - [X] Remote Desctop
+    - [X] Keylogger
+    - [X] File Manager
+    - [X] Process Manager
+    - [X] WebCam
+    - [X] Report Window
 
 Miscellaneous:
     Bot Killer
