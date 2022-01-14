@@ -67,9 +67,9 @@ Clipper supports adding multiple addresses for each currency, will replace the a
 
 Rath functionality:
 ![Image alt](https://img1.teletype.in/files/01/ad/01ad7e2b-77b6-44ca-b30c-51b0fc7dff37.jpeg)
- [X] Send File:
-    - [X] To Memory
-    - [X] To Disk
+*Send File:
+-To Memory
+-To Disk
 
  [X] Spy Function:
     - [X] Remote Desctop
