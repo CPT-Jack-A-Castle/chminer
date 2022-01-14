@@ -1,4 +1,4 @@
-## CH Miner BotNet - Hide Miner RAT and Clipper
+## 💎 CH Miner BotNet - Hide Miner RAT and Clipper
 
 ###  Hidden miner that can mine any currency by working with widely used console miners. Simple informative and convenient control panel, easy setup.
 
