@@ -68,41 +68,41 @@ Clipper supports adding multiple addresses for each currency, will replace the a
 Rath functionality:
 ![Image alt](https://img1.teletype.in/files/01/ad/01ad7e2b-77b6-44ca-b30c-51b0fc7dff37.jpeg)
 *Send File:
--To Memory
--To Disk
+[+]To Memory
+[+]To Disk
 
- [X] Spy Function:
-    - [X] Remote Desctop
-    - [X] Keylogger
-    - [X] File Manager
-    - [X] Process Manager
-    - [X] WebCam
-    - [X] Report Window
+*Spy Function:
+[+]Remote Desctop
+[+]Keylogger
+[+]File Manager
+[+]Process Manager
+[+]WebCam
+[+]Report Window
 
-Miscellaneous:
-    Bot Killer
-    Remote Shell
-    File Searcher
-    Execute C# .Net Code
-    Seed Torrren
-    USB Spread
+*Miscellaneous:
+[+]Bot Killer
+[+]Remote Shell
+[+]File Searcher
+[+]Execute C# .Net Code
+[+]Seed Torrren
+[+]USB Spread
 
-Extra:
-    Visit Website
-    Set Wallpaper
-    Send MessageBox
-    Blank Screen
+*Extra:
+[+]Visit Website
+[+]Set Wallpaper
+[+]Send MessageBox
+[+]Blank Screen
 
-Client:
-    Close
-    Restart
-    Update
-    Uninstall
+*Client:
+[+]Close
+[+]Restart
+[+]Update
+[+]Uninstall
 
-PC:
-    Logoff
-    Restart
-    Shutdown
+*PC:
+[+]Logoff
+[+]Restart
+[+]Shutdown
 
 
 
